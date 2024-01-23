@@ -1,0 +1,28 @@
+/*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to right, #fffde4, #005aa7);
+
+}*/
+*.radial-gradient {
+    position:fixed;
+    top:0px;
+    left:0px;
+    height:100%;
+    width:100%;
+    
+    
+    background: #9b59b6;
+    
+    background: 
+      radial-gradient(
+       at center, #3498db, #9b59b6
+      );
+  }
